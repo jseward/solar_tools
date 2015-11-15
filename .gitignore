@@ -37,3 +37,5 @@ Packages*/
 #Project files
 #[Bb]uild/
 readme.html
+
+!shaderc.exe
